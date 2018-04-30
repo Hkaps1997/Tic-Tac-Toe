@@ -12,3 +12,6 @@ message whenever a playwr wins or there is a tie.
 - A Java IDE(preferrably Intelli J due to ease of cloning the project).
 
 # Usages
+![alt text](https://github.com/Hkaps1997/Tic-Tac-Toe/blob/master/Screenshot_Tie.PNG)
+
+![alt text](https://github.com/Hkaps1997/Tic-Tac-Toe/blob/master/Screenshot_win.PNG)
